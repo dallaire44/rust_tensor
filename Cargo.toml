@@ -1,0 +1,14 @@
+[package]
+name = "tensor"
+version = "0.1.0-alpha"
+edition = "2021"
+description = "Rust tensor library using vectors and minimizing loops"
+license = "MIT"
+authors = ["David <david@omegairisk.ca>" ]
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+num-traits = "0.2"
+
